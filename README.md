@@ -5,6 +5,7 @@ All instruction, program code (including variable name), etc is preferaby writte
 
 ### Folder structure
 each folder is named according to the week in which the module was worked on. Week one has another folder separated by unit because they have `.c` and `.exe` file, week 2 - week 5 only have `.ipynb` file for each unit.
+`dataset` folder contains all dataset that needed for all `.ipynb`, every practicum module that use for reference is saved at `Practicum-module`.
 
 ### Disclaimer for ipynb
 ⚠️Every `.ipynb	` is worked (executed) in google colab, you may need adjustment if you execute it in local.
