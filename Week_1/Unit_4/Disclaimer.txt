@@ -1,0 +1,8 @@
+1. Buatlah analisis untuk program Contoh 3 dan Contoh 4.
+2. Buatlah kembali program yang ada di Unit 2 dan Unit 3 menggunakan Fungsi, tanpa perlu
+membuat kembali algoritma baik flowchart maupun pseudocode.
+3. Buatlah analisis untuk program di poin nomor 2.
+
+Tugas unit ini tidak dapat dikerjakan karena terdapat ketidakjelasan
+mengenai maksud dari contoh 3 dan contoh 4 pada soal nomor 1, dan program
+yang dimaksud pada unit 2 dan unit 3 pada soal nomor 2.
